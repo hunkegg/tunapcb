@@ -2,11 +2,11 @@
 slack username: egg_splats
 
 ## description
-a new keychain to add to my ever-growing collection mweheheheheh >:3 
-
-this is a pcb made for the solder YSWS by Hack Club
-i was craving tuna when i came up with this, thus resulting in the fishy theme of this keychain
-featuring:
+a new keychain to add to my ever-growing collection mweheheheheh >:3  
+  
+this is a pcb made for the solder YSWS by Hack Club  
+i was craving tuna when i came up with this, thus resulting in the fishy theme of this keychain  
+featuring:  
 * 2 LEDs with pushy buttons
 * vibrating motor
 * fish 🐟
